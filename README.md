@@ -3,7 +3,7 @@ First Semester Project — Dec 2023
 
 This project is a simple hospital management system built to make everyday hospital tasks easier and more organized. It provides a clean interface for both staff and doctors to manage patients, schedules, and internal communication.
 
-<video src="HMS (1) (1).mp4" controls width="600"></video>
+<video src="HMSvid.mp4" controls width="600"></video>
 
 ## Features
 
